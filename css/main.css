@@ -21,21 +21,40 @@ html {
   }
 
   .header{
-    background-color: grey;
+    background-color: #9EC6A2;
+  }
+
+  .nav {
+  	list-style-type: none;
+  	padding: 0;
+  	clear: both;
+  	text-align:center;
+  	color:#ffffff;
+  	margin:0;
   }
 
   .nav li {
     display: inline-block;
   }
 
-  .logo {
+li{
+  display: block;
+  text-decoration: none;
+}
+
+  nav a {
+ color: white;
+ text-decoration: none;
+}
+
+.logo {
 text-align: center;
   width: 50%;
   }
 
-  nav a {
- text-decoration: none;
- color: white;
+.font2{
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
 }
 
 .image {
@@ -84,4 +103,13 @@ overflow:hidden;
 	background: transparent;
   position: relative;
   bottom: 2.8em;
+}
+
+.intro{
+  background-color: #9EC6A2;
+}
+
+.gutter{
+  margin: 0;
+  width: 100%;
 }
