@@ -100,6 +100,19 @@ overflow:hidden;
   margin: 0;
 }
 
+.button{
+  font-size: 1.6em;
+  font-family: sans-serif;
+  color: black;
+  cursor: pointer;
+  width: 235px;
+  height: 60px;
+  text-align:center;
+  border: black solid 2px;
+  border-radius: .5em;
+  background: transparent;
+  position: relative;
+}
 .button2 {
 	font-size: 1.6em;
 	font-family: sans-serif;
@@ -135,6 +148,10 @@ overflow:hidden;
 }
 .icons{
   text-align: center;
+}
+.box1{
+  background-color: #9EC6A2;
+  border: 25px solid white;
 }
 
 @media only screen and (min-width: 35em) {
