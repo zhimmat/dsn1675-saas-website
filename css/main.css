@@ -103,12 +103,12 @@ overflow:hidden;
 .button{
   font-size: 1.6em;
   font-family: sans-serif;
-  color: black;
+  color: white;
   cursor: pointer;
   width: 235px;
   height: 60px;
   text-align:center;
-  border: black solid 2px;
+  border: white solid 2px;
   border-radius: .5em;
   background: transparent;
   position: relative;
