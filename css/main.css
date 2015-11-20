@@ -56,6 +56,12 @@ text-align: left;
   width: 50%;
   }
 
+  .font1{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    color: white;
+  }
+
 .font2{
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
@@ -152,6 +158,9 @@ overflow:hidden;
 .box1{
   background-color: #9EC6A2;
   border: 25px solid white;
+}
+.box{
+  background-color: #C3D8C3;
 }
 
 @media only screen and (min-width: 35em) {
