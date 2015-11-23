@@ -198,6 +198,9 @@ overflow:hidden;
   padding-left: 8em;
   padding-right: 8em;
  }
+h2{
+  text-align: center;
+}
 }
 @media print{
  main a::after{
