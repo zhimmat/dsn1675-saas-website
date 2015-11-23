@@ -26,7 +26,7 @@ html {
 
   h2{
     text-align: center;
-      font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald', sans-serif;
   }
 
   .nav {
@@ -37,9 +37,11 @@ html {
   	color:#ffffff;
   	margin:0;
   }
+
   nav a:hover {
     color: #9EC6A2;
   }
+
   .nav li {
     display: inline-block;
   }
@@ -80,10 +82,17 @@ color: white;
   font-weight: 700;
   color: black;
 }
+
 .font4{
 font-family: 'Oswald', sans-serif;
 font-weight: 400;
 }
+
+.white{
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
+
 .image {
 width: 100%;
 position: relative;
@@ -130,6 +139,7 @@ overflow:hidden;
   background: transparent;
   position: relative;
 }
+
 .button2 {
 	font-size: 1.6em;
 	font-family: sans-serif;
@@ -148,9 +158,11 @@ overflow:hidden;
 .intro{
   background-color: #7E997F;
 }
+
 .intro2{
   background-color: #9EC6A2;
 }
+
 .gutter-2{
   font-size: 1.6em;
 	font-family: sans-serif;
@@ -165,16 +177,20 @@ overflow:hidden;
   position: relative;
   bottom: 1.8em;
 }
+
 .icons{
   text-align: center;
 }
+
 .box1{
   background-color: #9EC6A2;
   border: 25px solid white;
 }
+
 .box{
   background-color: #C3D8C3;
 }
+
 @media only screen and (min-width: 35em) {
   .image {
   position: relative;
