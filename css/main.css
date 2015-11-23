@@ -21,7 +21,7 @@ html {
   }
 
   .header{
-    background-color: #9EC6A2;
+    background-color: #7E997F;
   }
 
   h2{
@@ -37,7 +37,9 @@ html {
   	color:#ffffff;
   	margin:0;
   }
-
+  nav a:hover {
+    color: #9EC6A2;
+  }
   .nav li {
     display: inline-block;
   }
@@ -64,7 +66,7 @@ font-weight: 300;
 
 .font1{
 font-family: 'Oswald', sans-serif;
-font-weight: 700;
+font-weight: 400;
 color: white;
 }
 
@@ -78,7 +80,10 @@ color: white;
   font-weight: 700;
   color: black;
 }
-
+.font4{
+font-family: 'Oswald', sans-serif;
+font-weight: 400;
+}
 .image {
 width: 100%;
 position: relative;
@@ -141,9 +146,11 @@ overflow:hidden;
 }
 
 .intro{
+  background-color: #7E997F;
+}
+.intro2{
   background-color: #9EC6A2;
 }
-
 .gutter-2{
   font-size: 1.6em;
 	font-family: sans-serif;
@@ -168,7 +175,6 @@ overflow:hidden;
 .box{
   background-color: #C3D8C3;
 }
-
 @media only screen and (min-width: 35em) {
   .image {
   position: relative;
