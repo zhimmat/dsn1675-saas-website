@@ -194,6 +194,14 @@ overflow:hidden;
 .width{
   width: 100%;
 }
+.sign-up {
+    max-width: 800px;
+    background: none;
+    border:1px solid #9EC6A2;
+    margin-bottom: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
 @media only screen and (min-width: 35em) {
   .image {
   position: relative;
