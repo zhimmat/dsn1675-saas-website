@@ -28,7 +28,10 @@ html {
     text-align: center;
     font-family: 'Oswald', sans-serif;
   }
-
+.footer2{
+  position: absolute;
+  width: 100%;
+}
   .nav {
   	list-style-type: none;
   	padding: 0;
